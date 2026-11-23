@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Tidal Relay</string>
+    <style name="RelayTheme" parent="android:style/Theme.Material.NoActionBar">
+        <item name="android:fontFamily">sans</item>
+        <item name="android:windowLightStatusBar">false</item>
+        <item name="android:windowLightNavigationBar">false</item>
+        <item name="android:windowBackground">#0B1725</item>
+        <item name="android:colorAccent">#FFD585</item>
+        <item name="android:statusBarColor">#0B1725</item>
+        <item name="android:navigationBarColor">#0B1725</item>
+    </style>
+</resources>
